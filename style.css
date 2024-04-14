@@ -401,7 +401,8 @@ label {
   border: 2px solid #7fb950;
   font-size: xx-large;
 }
-*/ .gallery {
+
+.gallery {
   padding: 50px;
   display: flex;
   margin: 50px 0;
@@ -607,9 +608,9 @@ footer .icon img {
     left: 0;
   }
 
-  .gallery {
+  /* .gallery {
     display: none;
-  }
+  } */
 
   .imageAndwords {
     flex-direction: column;
